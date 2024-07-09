@@ -5,6 +5,7 @@
 5. Hugo herunterladen und installieren: https://gohugo.io/installation/windows/
 6. Hugo Theme auschecken: https://github.com/luizdepra/hugo-coder
 7. VSCode herunterladen und installieren: https://code.visualstudio.com/Download
+8. Github Action zum Projekt hinzufügen: https://gohugo.io/hosting-and-deployment/hosting-on-github/
 
 
 # Nützliche Links
